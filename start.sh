@@ -2,7 +2,7 @@
 # Script para iniciar la aplicación en local
 # Uso: bash start.sh
 
-echo "🚀 Iniciando Inversiones Espinoza..."
+echo "🚀 Iniciando FIXTLE..."
 echo ""
 
 # Iniciar backend

@@ -1,4 +1,4 @@
-# 🏪 Inversiones Espinoza
+# 🏪 FIXTLE
 
 Sistema web para **registrar ventas y gastos** de un negocio, con **reportes por fecha**. Diseñado para funcionar en **móvil y escritorio**.
 

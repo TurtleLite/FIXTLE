@@ -31,7 +31,7 @@ export default function Login() {
             <div className="inline-flex items-center justify-center w-16 h-16 bg-indigo-100 rounded-full mb-4">
               <ShoppingBag className="w-8 h-8 text-indigo-600" />
             </div>
-            <h1 className="text-2xl font-bold text-gray-900">Inversiones Espinoza</h1>
+            <h1 className="text-2xl font-bold text-gray-900">FIXTLE</h1>
             <p className="text-gray-500 text-sm mt-1">Control de ventas y gastos</p>
           </div>
 

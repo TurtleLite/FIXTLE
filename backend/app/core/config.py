@@ -6,7 +6,7 @@ import os
 class Settings(BaseSettings):
     model_config = SettingsConfigDict(env_file=".env", extra="ignore")
     
-    APP_NAME: str = "Inversiones Espinoza"
+    APP_NAME: str = "FIXTLE"
     SECRET_KEY: str = "turtlelite-super-secret-key-change-in-production-2026"
     ALGORITHM: str = "HS256"
     ACCESS_TOKEN_EXPIRE_MINUTES: int = 480  # 8 horas (jornada laboral)
